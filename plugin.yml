@@ -1,0 +1,10 @@
+name: LinarisKits
+version: 0.1
+main: net.neferett.LinarisKits.LinarisKits
+author: Neferett
+commands:
+  coins:
+    usage: /<command> give/set/see <player> [amount]
+    description: Survivor settings
+  addkit:
+    usage: /<command> <game> <name>
